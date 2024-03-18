@@ -1,0 +1,5 @@
+opencv
+termcolor
+mss
+compress
+PySimpleGUI
